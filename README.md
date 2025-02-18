@@ -1,8 +1,23 @@
-# React + Vite
+Afrix - Share Your Moments
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Afrix adalah aplikasi berbagi foto yang dirancang untuk memungkinkan pengguna menyimpan dan membagikan kenangan mereka dengan cara yang simpel dan menyenangkan. Dibangun dengan teknologi React.js, afrix menawarkan pengalaman berbagi gambar yang cepat, responsif, dan intuitif. Dengan antarmuka yang ramah pengguna, aplikasi ini memudahkan siapa saja untuk mengabadikan momen spesial dan berbagi dengan teman-teman atau dunia secara langsung.
 
-Currently, two official plugins are available:
+🔥 Fitur Utama
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Autentikasi Pengguna - Registrasi, Login, dan Logout dengan mudah.
+
+✅ Unggah & Kelola Postingan - Tambahkan foto dengan caption yang menarik.
+
+✅ Eksplorasi Postingan - Jelajahi berbagai postingan dari pengguna lain.
+
+✅ Like & Komentar - Berinteraksi dengan pengguna lain melalui like dan komentar.
+
+✅ Follow & Interaksi - Ikuti pengguna lain untuk melihat postingan mereka
+
+🚀 Tech Stack
+
+🛠 Frontend: VITE + REACT
+
+🔗 API: Axios (dengan Interceptor untuk Auth)
+
+☁️ Deployment: Vercel & Netlify
